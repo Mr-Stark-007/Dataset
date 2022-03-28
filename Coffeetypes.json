@@ -1,0 +1,14 @@
+[
+    {
+        "coffeetype_id": 1,
+        "mealtype": "Coffe",
+        "content": "FRESH CAFÉ TO UNLOCK YOUR SENSES",
+        "meal_image": "menu-1"
+    },
+    {
+        "coffeetype_id": 2,
+        "mealtype": "Coffe bean",
+        "content": "FRESH CAFÉ TO UNLOCK YOUR SENSES",
+        "meal_image": "product-1"
+    }
+]

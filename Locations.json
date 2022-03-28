@@ -1,0 +1,11 @@
+db.location.insert(
+    [
+      {
+        "location_id": 1,
+        "location_name": "Naagarbhavi, 6th block, Bangalore",
+        "state_id": 1,
+        "state": "Karnataka",
+        "country_name": "India"
+      }
+    ]
+)
